@@ -1,0 +1,17 @@
+# Core scientific computing
+numpy>=1.21.0
+matplotlib>=3.4.0
+pandas>=1.3.0
+
+# Additional visualization
+seaborn>=0.11.0
+
+# Performance timing
+timeit
+
+# Data generation
+scipy>=1.7.0
+
+# Optional: For notebook development
+jupyter>=1.0.0
+ipython>=7.25.0
