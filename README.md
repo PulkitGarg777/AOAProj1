@@ -5,17 +5,6 @@ This project implements and analyzes two fundamental algorithmic paradigms:
 1. **Greedy Algorithm** - Real-world problem solved optimally using greedy approach
 2. **Divide and Conquer Algorithm** - Real-world problem solved using D&C technique
 
-## Project Requirements (100 pts total)
-
-### For Each Problem (50 pts each):
-- [ ] Identify real problem (10 pts)
-- [ ] Abstract the problem (5 pts)
-- [ ] Provide algorithm solution (10 pts)
-- [ ] Running time analysis (5 pts)
-- [ ] Proof of correctness (10 pts)
-- [ ] Explain in problem domain language (5 pts)
-- [ ] Implementation with experimental verification (5 pts)
-
 ## Project Structure
 
 ```
@@ -96,6 +85,3 @@ All LLM interactions must be documented in `docs/llm_usage_log.md` with:
 
 ## Team Members
 - [Add names here]
-
-## License
-Academic project for University of Florida - Analysis of Algorithms course
